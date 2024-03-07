@@ -39,7 +39,7 @@ h2{
  .box {
   width: 100%;
   height:200px;
-  background-image:url("./public/assets/stock.png"); 
+  background-image:url("/assets/stock.png"); 
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
